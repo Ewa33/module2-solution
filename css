@@ -43,9 +43,6 @@
         border: 1px;
 }
 
- #section1 #section2 #section3 {
-          background-color: grey;
-          border: 1px;
-          }
-          
- p {width: 100px;}
+section {background-color: grey;
+}
+ 
