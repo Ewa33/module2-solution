@@ -49,3 +49,8 @@
 div {background-color: grey;
 }
  
+div.section {
+  padding: 5px;
+  background-color: gray;
+  border: 2px solid black;
+}
