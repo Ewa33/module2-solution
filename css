@@ -1,1 +1,17 @@
+/************ Mobile View **************/
+@media (max-width: 767px) {
 
+}
+
+
+/************ Tablet View **************/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+
+
+/************ Desktop View *************/
+@media (min-width: 992px) {
+
+}
