@@ -46,4 +46,7 @@
         border: 1px;
 }
 
-section {width: 33%;}
+section {
+          background-color: grey;
+          border: 1px;
+          }
