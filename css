@@ -30,6 +30,9 @@
 * {box-sizing: border-box;
 }
 
+.row {width: 100%;
+}
+
 .chicken {background-color: pink;
           border: 1px;
 }
@@ -43,6 +46,6 @@
         border: 1px;
 }
 
-section {background-color: grey;
+div {background-color: grey;
 }
  
