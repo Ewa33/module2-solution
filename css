@@ -1,22 +1,27 @@
 /************ Mobile View **************/
 @media (max-width: 767px) {
-
+          float: left;
 }
 
 
 /************ Tablet View **************/
 @media (min-width: 768px) and (max-width: 991px) {
-
-}
+          float: left;
 
 
 
 /************ Desktop View *************/
 @media (min-width: 992px) {
-
+          float: left;
 }
 
 /*********** Base Styles ***************/
+* {box-sizing: border-box;
+}
+
+.row {width: 100%;
+}
+
 .chicken {background-color: pink;
           border: 1px;
 }
